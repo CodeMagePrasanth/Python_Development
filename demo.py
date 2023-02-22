@@ -1,3 +1,1 @@
-S = 'i love naruto'
-print(S.rfind('o'))
-print(S.index('a'))
+print('hello buddy')
