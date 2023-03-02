@@ -1,4 +1,4 @@
-#T = [1,2,3,4,5,6,1423,456]
+ #T = [1,2,3,4,5,6,1423,456]
 #print(T.index(4))
 #T.sort(reverse=True)
 #T.sort()
@@ -67,14 +67,23 @@
 
 #string also positive indexing and negative indexing.
 
-S = "We are developer"
-print("#string also positive indexing and negative indexing : "+S[5])
-print(S[5])
-print(S[-5])
+#S = "We are developer"
+#print("#string also positive indexing and negative indexing : "+S[5])
+#print(S[5])
+#print(S[-5])
 
 
 ### String In-built methods
-## case convertion methods (upper(),lower(),swapcase(),captialize(),title())
+## case convert   ion methods (upper(),lower(),swapcase(),captialize(),title())
+
+# List
+#L = [12,5,4,[9]]
+#print(L[1])
+#print(L[3][0])
+#print SL[3][0]=[89]
+#print(L)
+
+
 
 
 
