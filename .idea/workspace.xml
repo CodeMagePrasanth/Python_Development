@@ -6,7 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="2516c297-acb4-481d-bc27-ee6f6b209812" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PROGRAMS/pg_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PROGRAMS/pg_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/List and list inbuilt methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ass-operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/python basics/ass-operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inbuilt functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/inbuilt functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opertors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opertors/arthime" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opertors/terinary opertors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +50,28 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.inbuilt functions">
+    <configuration name="inbuilt functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inbuilt functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="pg_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,6 +95,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.inbuilt functions" />
         <item itemvalue="Python.pg_1" />
       </list>
     </recent_temporary>
