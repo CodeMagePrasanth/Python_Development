@@ -35,7 +35,7 @@ if 4>=2:
 else:
     print('heloo')
 
-#Ex-1
+#Ex-3
 
 s='abcde'
 ch='X'
@@ -51,13 +51,13 @@ ch='D'
 if (ch in s):
     print("Yes,{}".format(s.index(ch)))
 else:
-     print('No')
+     print("No")
 
-#Ex_3
+#Ex_1
 
 s="PYTHON"
 ch="T"
-if (ch is not s):
+if (ch in s):
     print("Yes,{}".format(s.index(ch)))
 else:
     print("No")
