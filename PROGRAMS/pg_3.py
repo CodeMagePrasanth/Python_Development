@@ -1,4 +1,6 @@
-'''
+
+# WAP to print highest among two numbers
+
 a,b,c,d,e=100,20,30,40,50
 
 if a>b:
@@ -48,8 +50,10 @@ else:
             else:
                 print('e is highest')
 
-
 '''
+# WAP to print highest among two numbers
+# 4 charater
+ 
 a,b,c,d=58,90,70,89
 
 if a>b:
@@ -74,8 +78,4 @@ else:
             print('c1 is highest')
         else:
             print('d3 is highest')
-
-x,y,z=344,67,88
-if x>y:
-    if x>z:
-        print('x is ')
+'''
