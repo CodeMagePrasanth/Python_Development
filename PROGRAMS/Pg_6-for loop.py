@@ -16,7 +16,7 @@ for val in L:
     print(val)
 
 #tuple
-T = (98,45,34,(89,67,),'this',10,20,20,True ,False,'The Hacker',(56),[12,13,14],{12,3,4,5},{'a':12})
+T = (98,45,   34,(89,67,),'this',10,20,20,True ,False,'The Hacker',(56),[12,13,14],{12,3,4,5},{'a':12})
 for valu in T:
     print(valu)
 

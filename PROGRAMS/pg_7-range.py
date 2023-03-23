@@ -1,3 +1,2 @@
-# WAP write to number 15 to 19
-for num in range(-19,16):
+for num in range(49,34,-1):
     print(num)
