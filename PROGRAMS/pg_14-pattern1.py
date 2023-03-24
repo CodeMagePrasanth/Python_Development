@@ -9,4 +9,3 @@
 # while ( star != 6):
 #     print('*', end = ' ')
 #     star += 1
-
