@@ -13,10 +13,10 @@
 
 # Logic 2
 
-num = 77
+num = 76
 for i in range(2, num//2+1):
     if num % i == 0:
-        print('composite')
+        print('composit')
         break
 else:
     print('Not Composite')
