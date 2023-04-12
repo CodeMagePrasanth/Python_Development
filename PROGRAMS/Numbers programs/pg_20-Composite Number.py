@@ -1,7 +1,7 @@
 # Logic 1
 # we are division
 
-# num = 1
+# num = 14
 # count = 0
 # for a in range(1,num+1):
 #     if (num%a==0):
@@ -13,10 +13,10 @@
 
 # Logic 2
 
-num = 76
+num = 3
 for i in range(2, num//2+1):
     if num % i == 0:
-        print('composit')
+        print('composite')
         break
 else:
     print('Not Composite')

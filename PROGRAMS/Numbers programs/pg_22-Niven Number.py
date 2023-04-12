@@ -1,4 +1,4 @@
-num = 23
+num = 1815
 add = 0
 val = num
 while (num!=0):
