@@ -13,7 +13,7 @@
 
 # Logic 2
 
-num = 3
+num = 14
 for i in range(2, num//2+1):
     if num % i == 0:
         print('composite')
