@@ -5,13 +5,35 @@
 # 2/7,3/7,4/7,5/7,6/7.
 # if divied any number its not not prime number
 # Ex:- 1 is not prime number (in condition is prime number two factors only prime number)
+#
+# num = 1
+# count = 1
+# for i in range(1,num+1):
+#     if num%i==0:
+#         count +=1
+# if count==2:
+#     print(' prime number')
+# else:
+#     print(' not prime number')
+#
+# num = 13
+# while (num>9):
+#     add = 0
+#     while (num!=0):
+#         add += (num%10)**2
+#         num//=10
+#     num =add
+# if num==1:
+#     print('hap')
+# else:
+#     print('not happ')
 
-num = 1
-count = 1
-for i in range(1,num+1):
-    if num%i==0:
-        count +=1
-if count==2:
-    print(' prime number')
+num=3
+i =1
+while i**2 <=num+1 :
+    if i**2 == num+1:
+        print('sunny')
+        break
+    i+=1
 else:
-    print(' not prime number')
+    print('not sunny')
