@@ -1,0 +1,17 @@
+with out importing any packages how predefined string in built function are working in python
+
+In Python, there are some built-in functions and methods that are available without importing any packages or modules.
+These functions and methods are included in the Python interpreter itself and are always available for use.
+
+For example, the string in-built functions such as len(), str(), format(), upper(), lower(), replace(), split(), etc.
+are always available for use in Python without any import statements.
+
+These functions and methods are implemented in the C programming language, which is the underlying language of Python.
+ They are compiled as part of the Python interpreter and are always available for use, regardless of whether any additional
+  modules or packages have been imported.
+
+Therefore, you can use these in-built functions and methods in your Python code without importing any packages.
+
+
+
+

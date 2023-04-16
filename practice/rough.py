@@ -28,12 +28,25 @@
 # else:
 #     print('not happ')
 
-num=3
-i =1
-while i**2 <=num+1 :
-    if i**2 == num+1:
-        print('sunny')
-        break
-    i+=1
-else:
-    print('not sunny')
+# num=3
+# i =1
+# while i**2 <=num+1 :
+#     if i**2 == num+1:
+#         print('sunny')
+#         break
+#     i+=1
+# else:
+#     print('not sunny')
+num = 3
+for i in range(0, num):
+    for j in range(0, num-i-1):
+        print(" ",end=" ")
+    for j in range(0, i*2+1):
+        print("*", end=" ")
+    print()
+for i in range(1, num):
+    for j in range(0, i):
+        print(" ",end=" ")
+    for j in range(0, (num-i)*2-1):
+        print("*", end=" ")
+    print()
