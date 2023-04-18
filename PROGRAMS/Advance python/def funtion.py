@@ -7,11 +7,11 @@ syntax:
 '''
 # Ex :- 1
 #
-# def greet():
-#     print("Hello Developers")
-#     return 'I am there'
-#
-# print(greet())
+def greet():
+    print("Hello Developers")
+    return 'I am there'
+
+print(greet())
 
 # Ex:- 2
 
