@@ -51,7 +51,3 @@
 #         print("*", end=" ")
 #     print()
 
-n = 'prasanth'
-s = n
-for i in range():
-    print(s)

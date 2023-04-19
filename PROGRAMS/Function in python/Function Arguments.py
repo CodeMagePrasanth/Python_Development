@@ -57,8 +57,8 @@ def var_keyword_arg(*args):
 var_keyword_arg(4,43)
 '''
 # Variable lenth non-keyword arguments
-def var_non_keyword_arg(**kwargs):
+def var_non_keyword_arg(**kwarg):
     print('gender')
     print('hellow world')
-    print(f' kwargs : {kwargs}')
-var_non_keyword_arg(name = 'prasanth')
+    print(f'kwargs : {kwarg}')
+var_non_keyword_arg(name = 'prasanth',college = 'paavai engineering clg')

@@ -65,10 +65,8 @@ count= 1
 while (count != 4):
     if (prime_count(i)):
         print(i)
-        count +=1
-    i +=1
-
-
+        count+=1
+    i+=1
 '''
 def prime_count(num):
     count = 0
