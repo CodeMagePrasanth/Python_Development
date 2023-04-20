@@ -51,3 +51,9 @@
 #         print("*", end=" ")
 #     print()
 
+num = 1234
+add =0
+while num !=0:
+    rem = num%10
+    num //=10
+print(add)
