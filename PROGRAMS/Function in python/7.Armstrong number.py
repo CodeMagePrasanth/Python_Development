@@ -1,4 +1,4 @@
-def arm(num,p):
+def arm(num, p):
     add = 0
     while num != 0:
         rem = num % 10
@@ -6,8 +6,9 @@ def arm(num,p):
         num //= 10
     return add
 
+
 num = 153
-if (num == arm(num,len(str(num)))):
+if num == arm(num, len(str(num))):
     print('arm strong number')
 else:
-    print('not armstrong number ')
+    print('not armstrong umber ')

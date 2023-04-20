@@ -1,13 +1,13 @@
 '''
 #  Prime number
 # Q1--> WAP to Check given number is prime or not
-#  Note:- if given number is prime funtion should return True otherwise return False
+#  Note:- if given number is prime function should return True otherwise return False
 
 def prime(n):
     count = 0
     for a in range (1,n+1):
         if (n % a == 0):
-            count +=1
+            count += 1
     if (count == 2):
         return True
     return False
@@ -22,7 +22,7 @@ print(prime(11))
 #  Prime number
 # Q2  --> WAP to print prime number  40 to 80
 
-def primenum(num):
+def prime_num(num):
     count = 0
     for i in range (1,num+1):
         if (num%i == 0) :
@@ -30,14 +30,14 @@ def primenum(num):
     return count == 2
 
 for i in range (40,80):
-    if (primenum(i)):
+    if (prime_num(i)):
         print(i)
 '''
 
 '''
 # Q3  --> WAP to print prime number  40 to 80
 
-def primenum(num):
+def prime_num(num):
     count = 0
     for i in range (1,num+1):
         if (num%i == 0) :
@@ -45,7 +45,7 @@ def primenum(num):
     return count == 2
 
 for i in range (70,20,-1):
-    if (primenum(i)):
+    if (prime_num(i)):
         print(i)
 '''
 
