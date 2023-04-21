@@ -4,4 +4,4 @@ def factorial(num):
     return num%10 * factorial(num//10)
 
 
-print(factorial(10))
+print(factorial(10 ))

@@ -5,7 +5,7 @@
 
 # To write pgm  5 star in same line using while loop
 
-# star = 1
-# while ( star != 6):
-#     print('*', end = ' ')
-#     star += 1
+star = 1
+while ( star != 6):
+    print('*', end = ' ')
+    star += 1

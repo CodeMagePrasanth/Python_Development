@@ -7,7 +7,7 @@
 # n=5 (iteration) ,
 # space 2 , '*' 1 , i - 1
 # space 1 , '*' 3 , i - 3
-# space 0 , '*' 5 , i - 5
+# space 0 ,In '*' 5 , i - 5
 # space 1 , '*' 3 , i - 3
 # space 2 , '*' 1 , i - 1
 
