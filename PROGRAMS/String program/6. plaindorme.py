@@ -33,3 +33,35 @@ A = 4
 M = 2
 
 '''
+
+#  plaindorme
+
+# s = 'aba'
+# res = ''
+# for i in range(len(s)-1,-1,-1):
+#     res += s[i]
+# print(res)
+# if (res == s):
+#     print('palndotme')
+# else:
+#     print('not planimfopr')
+#
+
+# Sub plaindorme
+
+s = 'malayalam'
+for i in range(0,len(s)//2):
+    if (s[i] != s[-i-1]):
+        print(' not palindorme')
+        break
+else:
+    print('plaindrome')
+
+s ='PYTHON'
+rev = ''
+for i in range(-1,-7,-1):
+    rev += s[i]
+if (rev == s):
+    print('Palindrome')
+else:
+    print('Not palindrome')

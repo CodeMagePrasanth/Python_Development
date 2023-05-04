@@ -11,6 +11,6 @@ print(res)
 
 k = 'PYTHON'
 rev = ''
-for x in range(-1,-7,-1):
+for x in range(len(k)-1,-1,-1):
     rev += k[x]
 print(rev)
