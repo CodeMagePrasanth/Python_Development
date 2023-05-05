@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-#
-s = 'hi'
-s.split()
-=======
 num = 25
 sq = num**3
 while (num != 0):
@@ -15,4 +10,3 @@ while (num != 0):
     sq//=10
 else:
     print('automorphic')
->>>>>>> origin/main

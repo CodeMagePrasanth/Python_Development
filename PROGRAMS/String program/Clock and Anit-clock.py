@@ -24,8 +24,20 @@ for i in range(0,len(s)):
 
 # WAP Anti-clock
 
-# a = 'CAR'
-# b = list(a)
-# l.insert(0,b.pop(-1))
-# print(''.join(b))
+a = 'CAR'
+b = list(a)
+l.insert(0,b.pop(-1))
+print(''.join(b))
 
+
+print('\n')
+s1 = 'BIKE'
+s2 = 'EBIK'
+l= list(s1)
+for i in range(0,len(s1)):
+    l.append(l.pop(0))
+    (' '.join(s1))
+if s2 == ' '.join(l):
+    print('yes')
+else:
+    print('no')

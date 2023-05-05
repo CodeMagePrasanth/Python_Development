@@ -17,7 +17,7 @@ print(d)
 
 # WAP to covert string to Dictionary give string
 # and sort method using
-'''
+
 s = 'I2S QUES4TION EX3AM THI1S'
 d = {}
 l = s.split()
@@ -39,7 +39,5 @@ print(N)
 print(N.strip())
 
 # output --> 
- {2: 'IS', 4: 'QUESTION', 3: 'EXAM', 1: 'THIS'}
- THIS IS EXAM QUESTION 
-
-'''
+#  {2: 'IS', 4: 'QUESTION', 3: 'EXAM', 1: 'THIS'}
+#  THIS IS EXAM QUESTION

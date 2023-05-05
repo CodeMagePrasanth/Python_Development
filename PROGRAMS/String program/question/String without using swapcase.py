@@ -24,5 +24,5 @@ for i in s:
         res += i
 for i in range(-1,-12,-1):
     res += s[i]
-print(res)
+    print(res)
 
