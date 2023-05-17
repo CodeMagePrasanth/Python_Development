@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2516c297-acb4-481d-bc27-ee6f6b209812" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PROGRAMS/leap year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMS/OOPS Concept/Inheritance/Hieracial Inhertance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMS/OOPS Concept/Inheritance/Hybrid Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMS/OOPS Concept/Inheritance/Multi level Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMS/OOPS Concept/Inheritance/Multiple Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMS/OOPS Concept/Inheritance/Single level Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMS/OOPS Concept/_oops basics/Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMS/OOPS Concept/_oops basics/Objects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMS/OOPS Concept/data members/Object members.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROGRAMS/OOPS Concept/Object example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROGRAMS/OOPS Concept/class members.py" beforeDir="false" afterPath="$PROJECT_DIR$/PROGRAMS/OOPS Concept/data members/class members.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +32,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/PROGRAMS/pg_3.py" root0="FORCE_HIGHLIGHTING" />
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="24d69219-893e-46fa-9806-13d4d91bbc6f" />
+        <option name="url" value="https://github.com/prasanths01/python.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -41,16 +60,20 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dreams Tattooing\Desktop\Jspiders\Core python\python\PROGRAMS\OOPS Concept\oops basics" />
+      <recent name="C:\Users\Dreams Tattooing\Desktop\Jspiders\Core python\python\PROGRAMS\OOPS Concept\data members" />
       <recent name="C:\Users\Dreams Tattooing\Desktop\Jspiders\Core python\python\python basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.pg_4">
-    <configuration name="pg_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Object members">
+    <configuration name="Class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,11 +81,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PROGRAMS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PROGRAMS/OOPS Concept" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PROGRAMS/pg_1.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Dreams Tattooing\Desktop\Jspiders\Core python\python\PROGRAMS\OOPS Concept\oops basics\Class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pg_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Object members" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PROGRAMS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PROGRAMS/OOPS Concept/data members" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PROGRAMS/pg_2.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Dreams Tattooing\Desktop\Jspiders\Core python\python\PROGRAMS\OOPS Concept\data members\Object members.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pg_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Objects" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PROGRAMS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PROGRAMS/OOPS Concept/_oops basics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PROGRAMS/pg_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PROGRAMS/OOPS Concept/_oops basics/Objects.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pg_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="class members" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PROGRAMS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PROGRAMS/OOPS Concept" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PROGRAMS/pg_4.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Dreams Tattooing\Desktop\Jspiders\Core python\python\PROGRAMS\OOPS Concept\data members\class members.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="typecasting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pg-numpattern3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +165,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PRACTICE PGM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python basics/typecasting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PRACTICE PGM/pg-numpattern3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pg_4" />
-        <item itemvalue="Python.pg_3" />
-        <item itemvalue="Python.pg_2" />
-        <item itemvalue="Python.pg_1" />
-        <item itemvalue="Python.typecasting" />
+        <item itemvalue="Python.Object members" />
+        <item itemvalue="Python.Objects" />
+        <item itemvalue="Python.Class" />
+        <item itemvalue="Python.pg-numpattern3" />
+        <item itemvalue="Python.class members" />
       </list>
     </recent_temporary>
   </component>
@@ -175,5 +198,28 @@
       <updated>1678781204547</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

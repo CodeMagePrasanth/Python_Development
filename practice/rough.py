@@ -1,7 +1,5 @@
-n = 5
-for i in range(1,n+1):
-    for j in range(i-n):
-        print('*',end = ' ')
-    for j in range(n-i):
-        print('*', end=' ')
-    print()
+l = [10,20,30,40,50]
+res =[]
+for i in range(4,-1,-1):
+    res += l.append(i)
+print(res)
