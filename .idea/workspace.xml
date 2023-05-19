@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2516c297-acb4-481d-bc27-ee6f6b209812" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/PROGRAMS/OOPS Concept/method/class method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROGRAMS/OOPS Concept/method/object method.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PROGRAMS/OOPS Concept/data members/Static method.py" beforeDir="false" afterPath="$PROJECT_DIR$/PROGRAMS/OOPS Concept/method/Static method.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/rough.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/rough.py" afterDir="false" />
-    </list>
+    <list default="true" id="2516c297-acb4-481d-bc27-ee6f6b209812" name="Changes" comment="Update workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -208,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684429223713</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update workspace.xml">
+      <created>1684518795888</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684518795888</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,7 +226,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="C:\Users\Dreams Tattooing\Desktop\Jspiders\Core python\python\.idea\workspace.xml" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="Update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
