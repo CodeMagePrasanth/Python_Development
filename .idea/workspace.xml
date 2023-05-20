@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2516c297-acb4-481d-bc27-ee6f6b209812" name="Changes" comment="Update workspace.xml" />
+    <list default="true" id="2516c297-acb4-481d-bc27-ee6f6b209812" name="Changes" comment="Update workspace.xml">
+      <change afterPath="$PROJECT_DIR$/PROGRAMS/OOPS Concept/5. abstraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRACTICE PGM/1 -10 and 10 -1.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/PRACTICE PGM/1 -10 and 10 -1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRACTICE PGM/HM1 number pattern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRACTICE PGM/g.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/PRACTICE PGM/g.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRACTICE PGM/home work.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/PRACTICE PGM/home work.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRACTICE PGM/pg-numpattern1.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/PRACTICE PGM/pg-numpattern1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRACTICE PGM/pg-numpattern2.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/PRACTICE PGM/pg-numpattern2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRACTICE PGM/pg-numpattern3.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/PRACTICE PGM/pg-numpattern3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRACTICE PGM/pg-numpattern4.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/PRACTICE PGM/pg-numpattern4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRACTICE PGM/pg-numpattern5.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/PRACTICE PGM/pg-numpattern5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROGRAMS/OOPS Concept/method/Static method.py" beforeDir="false" afterPath="$PROJECT_DIR$/PROGRAMS/OOPS Concept/method/Static method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/number pattern1.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +47,7 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
@@ -45,12 +60,13 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dreams Tattooing\Desktop\Jspiders\Core python\python\practice" />
       <recent name="C:\Users\Dreams Tattooing\Desktop\Jspiders\Core python\python\PROGRAMS\OOPS Concept\method" />
       <recent name="C:\Users\Dreams Tattooing\Desktop\Jspiders\Core python\python\python basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.rough">
-    <configuration name="Example 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Static method">
+    <configuration name="5. abstraction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,11 +74,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PROGRAMS/OOPS Concept/_oops basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PROGRAMS/OOPS Concept" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PROGRAMS/OOPS Concept/_oops basics/Example 2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PROGRAMS/OOPS Concept/5. abstraction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pg_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="HM1 number pattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PROGRAMS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/PRACTICE PGM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PROGRAMS/pg_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/PRACTICE PGM/HM1 number pattern.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pg_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Static method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PROGRAMS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PROGRAMS/OOPS Concept/method" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PROGRAMS/pg_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PROGRAMS/OOPS Concept/method/Static method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Static method" />
+        <item itemvalue="Python.5. abstraction" />
+        <item itemvalue="Python.HM1 number pattern" />
         <item itemvalue="Python.rough" />
         <item itemvalue="Python.Example 3" />
-        <item itemvalue="Python.Example 2" />
-        <item itemvalue="Python.pg_4" />
-        <item itemvalue="Python.pg_3" />
       </list>
     </recent_temporary>
   </component>
