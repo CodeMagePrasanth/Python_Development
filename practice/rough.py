@@ -1,14 +1,25 @@
-# # perfect
-# #     1
-# #   1 1 1
-# # 1 1 1 1 1
-# #   1 1 1
-# #     1
+# #evil number
+# # num = 2
+# # count = 0
+# # while(num!=0):
+# #     if num%2 == 1 :
+# #         count += 1
+# #     num//=2
+# # if (count%2==0):
+# #     print('Evil Number')
+# # else:
+# #     print('Not Evil number')
 #
-# n = 3
-# a = 1
-# for i in range(1,n+1):
-#     print('{}{}{}'.format('  '*(n-i),'* '*(i),'* '*(i-1)))
-#     a +=1
-# for i in range(2,0,-1):
-#     print('{}{}{}'.format('  '*(n-i),'* '*(i),'* '*(i-1)))
+# def evil(num):
+#     count=0
+#     while(num != 2):
+#         if (num%2 == 1):
+#             count += 1
+#         num //= 2
+#     return count
+#
+# num= 3
+# if evil(num):
+#     print('evil')
+# else:
+#     print('not e')
