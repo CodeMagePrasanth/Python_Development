@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2516c297-acb4-481d-bc27-ee6f6b209812" name="Changes" comment="Update workspace.xml">
+      <change afterPath="$PROJECT_DIR$/PROGRAMS/Recursion/10.disarium recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMS/Recursion/11. strong recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMS/Recursion/6.composite number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMS/Recursion/7.niven number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMS/Recursion/8.spy number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMS/create pyc file/module1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROGRAMS/Recursion/3.Factorial using Recurion.py" beforeDir="false" afterPath="$PROJECT_DIR$/PROGRAMS/Recursion/3.Factorial using Recurion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROGRAMS/Recursion/4.Prime recurison.py" beforeDir="false" afterPath="$PROJECT_DIR$/PROGRAMS/Recursion/4.Prime recurison.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROGRAMS/Recursion/9.Armstrong Recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/PROGRAMS/Recursion/9.Armstrong Recursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/rough.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/rough.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +58,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dreams Tattooing\Desktop\Jspiders\Core python\python\PROGRAMS\create pyc file" />
       <recent name="C:\Users\Dreams Tattooing\Desktop\Jspiders\Core python\python\practice" />
       <recent name="C:\Users\Dreams Tattooing\Desktop\Jspiders\Core python\python\PROGRAMS\OOPS Concept\method" />
       <recent name="C:\Users\Dreams Tattooing\Desktop\Jspiders\Core python\python\python basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.rough">
-    <configuration name="5. abstraction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.11. strong recursion">
+    <configuration name="11. strong recursion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,11 +73,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PROGRAMS/OOPS Concept" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PROGRAMS/Recursion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PROGRAMS/OOPS Concept/5. abstraction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PROGRAMS/Recursion/11. strong recursion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Rectangle star pattens" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3.Factorial using Recurion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/PATTERNS PARACTICE" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PROGRAMS/Recursion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/PATTERNS PARACTICE/Rectangle star pattens.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PROGRAMS/Recursion/3.Factorial using Recurion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Static method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="9.Armstrong Recursion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +115,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PROGRAMS/OOPS Concept/method" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PROGRAMS/Recursion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PROGRAMS/OOPS Concept/method/Static method.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PROGRAMS/Recursion/9.Armstrong Recursion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="print star of number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="9.Strong number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview question" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PROGRAMS/Function in python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview question/print star of number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PROGRAMS/Function in python/9.Strong number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.11. strong recursion" />
         <item itemvalue="Python.rough" />
-        <item itemvalue="Python.print star of number" />
-        <item itemvalue="Python.Rectangle star pattens" />
-        <item itemvalue="Python.Static method" />
-        <item itemvalue="Python.5. abstraction" />
+        <item itemvalue="Python.3.Factorial using Recurion" />
+        <item itemvalue="Python.9.Strong number" />
+        <item itemvalue="Python.9.Armstrong Recursion" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684578751067</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update workspace.xml">
+      <created>1684781875846</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684781875846</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

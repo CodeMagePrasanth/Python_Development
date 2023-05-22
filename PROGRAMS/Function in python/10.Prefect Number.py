@@ -1,12 +1,12 @@
 def perfect(num):
     sum = 0
-    for i in range(1, num):
+    for i in range(1, num//2+1):
         if num % i == 0:
-            sum += sum+i
+            sum += i
     return sum
 
 
-num = 9
+num = 28
 if perfect(num):
     print('Perfect Number')
 else:

@@ -4,8 +4,10 @@ def arm(num,p):
     return (num%10)**p + arm(num//10,p)
 
 
-num = 154
-if num == arm(num, len(str(num))):
-    print('ArmStrong Number')
-else:
-    print(' not ArmStrong Number')
+num = 153
+# if num == arm(num, len(str(num))):
+#     print('ArmStrong Number')
+# else:
+#     print(' not ArmStrong Number')
+
+print('Armstrong number' if num == arm(num, len(str(num))) else 'not ArmStrong Number')
