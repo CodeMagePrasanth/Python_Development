@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2516c297-acb4-481d-bc27-ee6f6b209812" name="Changes" comment="Update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/interview question/print star of number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/PATTERNS PARACTICE/Rectangle star pattens.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/PATTERNS PARACTICE/Rectangle star pattens.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/rough.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/rough.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
