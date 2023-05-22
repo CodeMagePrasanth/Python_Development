@@ -53,8 +53,8 @@
       <recent name="C:\Users\Dreams Tattooing\Desktop\Jspiders\Core python\python\python basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.rough">
-    <configuration name="5. abstraction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Q-2">
+    <configuration name="Q-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,11 +62,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PROGRAMS/OOPS Concept" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IDLE/MOCK - 3 QUESTION" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PROGRAMS/OOPS Concept/5. abstraction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IDLE/MOCK - 3 QUESTION/Q-2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Q-2" />
         <item itemvalue="Python.rough" />
         <item itemvalue="Python.print star of number" />
         <item itemvalue="Python.Rectangle star pattens" />
         <item itemvalue="Python.Static method" />
-        <item itemvalue="Python.5. abstraction" />
       </list>
     </recent_temporary>
   </component>
