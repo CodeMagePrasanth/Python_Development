@@ -3,18 +3,9 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="BookmarksViewState">
-    <option name="showPreview" value="true" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2516c297-acb4-481d-bc27-ee6f6b209812" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/PROGRAMS/Numbers programs/pg_37-happy number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROGRAMS/Numbers programs/pg_38-fascinating number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROGRAMS/OOPS Concept/Decorator/Decorator to Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROGRAMS/OOPS Concept/Decorator/Decorator to class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROGRAMS/OOPS Concept/Decorator/singleTon.py" afterDir="false" />
+    <list default="true" id="2516c297-acb4-481d-bc27-ee6f6b209812" name="Changes" comment="Update workspace.xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PROGRAMS/Numbers programs/autoMorphic number.py" beforeDir="false" afterPath="$PROJECT_DIR$/PROGRAMS/Numbers programs/pg_36-autoMorphic number.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +53,8 @@
       <recent name="C:\Users\Dreams Tattooing\Desktop\Jspiders\Core python\python\python basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.pg_33-binary to decimal">
-    <configuration name="Decorator to class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.rough">
+    <configuration name="5. abstraction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,11 +62,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PROGRAMS/OOPS Concept/Decorator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PROGRAMS/OOPS Concept" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PROGRAMS/OOPS Concept/Decorator/Decorator to class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PROGRAMS/OOPS Concept/5. abstraction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fascinating number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Rectangle star pattens" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PROGRAMS/Function in python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/PATTERNS PARACTICE" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PROGRAMS/Function in python/fascinating number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/PATTERNS PARACTICE/Rectangle star pattens.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pg_32-decimal to binary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Static method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PROGRAMS/Numbers programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PROGRAMS/OOPS Concept/method" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PROGRAMS/Numbers programs/pg_32-decimal to binary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PROGRAMS/OOPS Concept/method/Static method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pg_33-binary to decimal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="print star of number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PROGRAMS/Numbers programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interview question" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PROGRAMS/Numbers programs/pg_33-binary to decimal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview question/print star of number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pg_38-fascinating number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="rough" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PROGRAMS/Numbers programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PROGRAMS/Numbers programs/pg_38-fascinating number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/rough.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pg_33-binary to decimal" />
-        <item itemvalue="Python.pg_32-decimal to binary" />
-        <item itemvalue="Python.pg_38-fascinating number" />
-        <item itemvalue="Python.fascinating number" />
-        <item itemvalue="Python.Decorator to class" />
+        <item itemvalue="Python.rough" />
+        <item itemvalue="Python.print star of number" />
+        <item itemvalue="Python.Rectangle star pattens" />
+        <item itemvalue="Python.Static method" />
+        <item itemvalue="Python.5. abstraction" />
       </list>
     </recent_temporary>
   </component>
@@ -229,21 +220,7 @@
       <option name="project" value="LOCAL" />
       <updated>1684578751067</updated>
     </task>
-    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1684869613672</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1684869613672</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1684869674422</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1684869674422</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -259,9 +236,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="C:\Users\Dreams Tattooing\Desktop\Jspiders\Core python\python\.idea\workspace.xml" />
-    <MESSAGE value="Update workspace.xml" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="Update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
