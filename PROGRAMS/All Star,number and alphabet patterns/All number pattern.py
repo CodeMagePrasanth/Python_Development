@@ -222,7 +222,9 @@
 #    44
 #     5
 # '''
+
 # # 17
+
 # n = 5
 # for i in range(1,n+1):
 #     for j in range(i,5+1):
@@ -236,17 +238,75 @@
 # 4 4
 # 5
 # '''
-n = 5
-for i in range(5,0,-1):
-    for j in range(i,n+1):
-        print(i,end=' ')
-    print()
+
+# 18
+
+# n = 5
+# for i in range(5,0,-1):
+#     for j in range(i,n+1):
+#         print(i,end=' ')
+#     print()
+#
+# '''
+# 5
+# 4 4
+# 3 3 3
+# 2 2 2 2
+# 1 1 1 1 1
+#
+# '''
+
+# 19
+
+# n = 5
+# for i in range(1,n+1):
+#     print('  '*i, end ='')
+#     for j in range(i,n+1):
+#         print(i,end =' ')
+#     print()
 
 '''
-5 
-4 4 
-3 3 3 
-2 2 2 2 
-1 1 1 1 1 
+  1 1 1 1 1 
+    2 2 2 2 
+      3 3 3 
+        4 4 
+          5 
+
+'''
+
+# 20
+n = 5
+a = 4
+for i in range(n,0,-1):
+    print('  '*a,end='')
+    for j in range(i,n+1):
+        print(j,end=' ')
+    print()
+    a-=1
+'''
+        5 
+      4 5 
+    3 4 5 
+  2 3 4 5 
+1 2 3 4 5 
+
+'''
+# 21
+
+n = 5
+a = 4
+for i in range(n, 0, -1):
+    print(' ' * a, end='')
+    for j in range(i, n + 1):
+        print(j, end=' ')
+    print()
+    a -= 1
+
+'''
+    5 
+   4 5 
+  3 4 5 
+ 2 3 4 5 
+1 2 3 4 5 
 
 '''
