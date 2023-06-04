@@ -1,9 +1,9 @@
 # string
 
-# a = ('baba yaga,jhon wick')
-# print(a)
-# print(type(a))
-# print(a[0])
+a = ('baba yaga,jhon wick')
+print(a)
+print(type(a))
+print(a[0])
 
 # # list
 # l = [12,45,'sg','sdsssfsg',40.044,[99,],True,1]
@@ -12,8 +12,8 @@
 # l[5][0]=4
 # print(l)
 # print(type(l))
-
-# tuple
+#
+# # tuple
 # t = (24, 2524, 52,'2fsfsf', [234, 252, 245, 52, 'ss,,sgs,'])
 # print(t)
 # print(type(t))
