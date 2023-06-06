@@ -10,3 +10,13 @@ Steps:
 5. If a match is found, return the index of the element.
 6. If the end of the list is reached without finding a match, return -1 to indicate that the target value is not present in the list.
 '''
+
+k = [9,4,10,44,6,3]
+k.sort()
+val = int(input('ENTER THE VALUES : '))
+for a in range(len(k)):
+    if k[a] == val:
+        print(a)
+        break
+else:
+    print(-1)

@@ -13,3 +13,20 @@ Steps:
    - If the middle value is less than the target value, update the left boundary to be the middle index + 1.
 4. If the target value is not found after the loop, return -1 to indicate that it is not present in the list.
 '''
+
+j = [1,2,3,4]
+j.sort()
+val = 4
+low = 0
+high=len(j)-1
+while low <= high:
+    mid = (low + high)//2
+    if val > j[mid]:
+        low = mid+1
+    elif val < j[mid]:
+        high = mid-1
+    elif val == j [mid]:
+        print(mid)
+        break
+else:
+    print(-1)
