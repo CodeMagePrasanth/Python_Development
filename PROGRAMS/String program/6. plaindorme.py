@@ -1,5 +1,5 @@
 
-# palindrome in string
+# sub palindrome in string
 '''
 
 s = 'MALAYALAM'
@@ -57,9 +57,9 @@ for i in range(0,len(s)//2):
 else:
     print('plaindrome')
 
-s ='PYTHON'
+s ='amma'
 rev = ''
-for i in range(-1,-7,-1):
+for i in range(-1,-5,-1):
     rev += s[i]
 if (rev == s):
     print('Palindrome')
