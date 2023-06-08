@@ -10,4 +10,4 @@ num = 23
 if (happy(num) == 1):
     print('happy number')
 else:
-    print('not happy number')
+    print('not  happy number')
