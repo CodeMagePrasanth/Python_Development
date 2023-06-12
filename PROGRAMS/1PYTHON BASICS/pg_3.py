@@ -83,16 +83,16 @@ else:
 '''
 # 6 numbers
 
-a,b,c,d,e,f=23,56,78,45,4,23
-
-if a>b:
-    if a>c:
-        if a>d:
-            if a>e:
-                if a>f:
-                    print('a is python')
-                else:
-                    print('f is python')
-            else:
-                if
-                print()
+# a,b,c,d,e,f=23,56,78,45,4,23
+#
+# if a>b:
+#     if a>c:
+#         if a>d:
+#             if a>e:
+#                 if a>f:
+#                     print('a is python')
+#                 else:
+#                     print('f is python')
+#             else:
+#                 if
+#                 print()

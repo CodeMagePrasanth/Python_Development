@@ -15,7 +15,7 @@ def fun():
 fun()
 '''
 # ---> Output : is infinite time hii helloo and
-# Recursion Error : maximum Recursion deepth exceeded while pickling on object.
+# N3_(Recursion) Error : maximum N3_(Recursion) deepth exceeded while pickling on object.
 
 # Ex :--- WAP to print 1 to 10
 
