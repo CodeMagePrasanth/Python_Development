@@ -8,7 +8,7 @@ def prime(num,i):
     if (num%i ==0):
         return False
     return prime(num,i+1)
-num = 17
+num = 11
 l = len(str(num))-1
 if (num == rev(num,10**l) and (prime(num,2)) and (prime(rev(num,10**l),2))):
     print(' EMRRIP')

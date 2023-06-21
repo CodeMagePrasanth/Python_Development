@@ -8,7 +8,7 @@ def prime(num,i):
     if (num%i ==0):
         return False
     return prime(num//10,i+1)
-num = 14
+num = 11
 if rev(num,10**(len(str(num)))-1) and prime(num,2):
     print('palyprime')
 else:

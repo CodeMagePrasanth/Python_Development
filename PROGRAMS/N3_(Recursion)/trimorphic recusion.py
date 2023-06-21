@@ -8,4 +8,4 @@ num = 25
 if tryn(num,num**3):
     print('Trimorpic')
 else:
-    print(' not Trimorpic')
+    print(' not Tri morphic')

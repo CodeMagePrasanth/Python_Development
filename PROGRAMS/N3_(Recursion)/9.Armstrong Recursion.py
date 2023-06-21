@@ -4,7 +4,7 @@ def arm(num,p):
     return (num%10)**p + arm(num//10,p)
 
 
-num = 10
+num =153
 # if num == arm(num, len(str(num))):
 #     print('ArmStrong Number')
 # else:

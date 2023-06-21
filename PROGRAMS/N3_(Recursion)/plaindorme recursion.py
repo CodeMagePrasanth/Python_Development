@@ -4,6 +4,6 @@ def palindorme(num,x):
     return (num%10)* x + palindorme(num//10,x//10)
 num = 121
 if num==palindorme(num,10**(len(str(num))-1)):
-    print('palindomre ')
+    print('palindrome ')
 else:
     print(' not palindomre ')

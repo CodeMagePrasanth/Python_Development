@@ -6,6 +6,6 @@ def auto(num,sq):
     return auto(num//10,sq//10)
 num = 25
 if auto(num,num**2):
-    print('Automorpic')
+    print('Auto morphic')
 else:
-    print(' not Automorpic')
+    print(' not Auto morphic')

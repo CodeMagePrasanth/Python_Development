@@ -1,6 +1,5 @@
 ''' pronic program'''
 
-
 def pronic(num,i):
     while (i * (i + 1) <= num):
         if i * (i + 1) == num:
