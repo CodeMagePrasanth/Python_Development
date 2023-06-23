@@ -4,4 +4,4 @@ def AddDigit(num):
     return num % 10 +AddDigit(num//10)
 
 
-print(AddDigit(120))
+print(AddDigit(1023))

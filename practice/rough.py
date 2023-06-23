@@ -10,8 +10,17 @@
 # print(a,b,c,d)
 
 
-l = [i**2 for i in range(1,2000)]
-G = (i**2 for i in range(1,2000))
-print(l.__sizeof__())
-print(G.__sizeof__())
+# l = [i**2 for i in range(1,2000)]
+# G = (i**2 for i in range(1,2000))
+# print(l.__sizeof__())
+# print(G.__sizeof__())
 
+# l = [1,2,3,4]
+# k =[]
+# for i in range(0,len(l)):
+#     for j in range(i+1,len(l)+1):
+#         k.append((l[i:j]))
+# print(k)
+L= []
+X = [i for i in range(1,102) if i%2 == 0 ]
+print(X)
