@@ -1,0 +1,20 @@
+Index: practice/demo.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>num = [3,8,4,1,0,3,5,1,9]\r\ncount = 0\r\nres=[]\r\nfor i in num:\r\n    for k in range(1,i+1) :\r\n        if i%k ==0:\r\n            count+=1\r\n    if count==2:\r\n        res.append(i+1)\r\n        count-=2\r\n    elif count>=2 or count<=1:\r\n        res.append(i)\r\n        count-=count\r\nprint(res)
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/practice/demo.py b/practice/demo.py
+--- a/practice/demo.py	(revision fc54d5a72871dfe80764b5065696e387f8856130)
++++ b/practice/demo.py	(date 1689013111957)
+@@ -8,7 +8,7 @@
+     if count==2:
+         res.append(i+1)
+         count-=2
+-    elif count>=2 or count<=1:
++    elif count>=2 and count<=0:
+         res.append(i)
+         count-=count
+ print(res)
+\ No newline at end of file
