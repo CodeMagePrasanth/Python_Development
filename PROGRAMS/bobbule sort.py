@@ -5,4 +5,11 @@ for k in range(len(L)-1):
         if L[m]>L[m+1]:
             L[m],L[m+1]=L[m+1],L[m]
     print(L)
+<<<<<<< HEAD
 print(L)
+=======
+print(L)
+''' selection sort '''
+G = [11,99,43,88,44,8,9]
+for x in range(len(G)-1
+>>>>>>> origin/main
