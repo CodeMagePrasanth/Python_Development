@@ -3,7 +3,7 @@ def prime(num,i):
         return 0
     return (1 if num%i == 0 else 0) + prime(num,i+1)
 
-num = 3
+num = 5
 if (prime(num,1)== 2):
     print('prime')
 else:
