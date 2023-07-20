@@ -49,11 +49,16 @@
 #         count +=1
 # print(f"total number is : {count}")
 
-s = '  copy assignment'
-newStr=''
-for i in range(len(s)):
-    if i==0 or s[i-1] == ' ':
-        newStr += s[i].upper()
-    else:
-        newStr += s[i]
-print(newStr)
+# s = '  copy assignment'
+# newStr=''
+# for i in range(len(s)):
+#     if i==0 or s[i-1] == ' ':
+#         newStr += s[i].upper()
+#     else:
+#         newStr += s[i]
+# print(newStr)
+
+import re
+s ='hai python'
+x=re.match('h',s)
+print(x)
