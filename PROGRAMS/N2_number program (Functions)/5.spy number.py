@@ -21,7 +21,7 @@ def spy(num):
         num //= 10
     return add % mul
 
-num = 123
+num = 24
 if spy(num):
     print('Spy number')
 else:

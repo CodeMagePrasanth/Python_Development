@@ -6,5 +6,5 @@ def reverse(num,copy):
     return copy==rem
 
 
-num = 1221
+num = 988
 print(reverse(num,num))

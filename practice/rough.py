@@ -58,7 +58,17 @@
 #         newStr += s[i]
 # print(newStr)
 
-# import re
-# s ='hai python'
-# x=re.match('h',s)
-# print(x)
+# l =[0,4,5,2]
+# k=[]
+# for i in l:
+#     for j in range(i):
+#         k.append(i)
+# print(k)
+
+l=[1,3,9,12,18,16]
+i=1
+for num in l:
+    while i**2<=num :
+        if i**2==num:
+            print(num)
+        i+=1
