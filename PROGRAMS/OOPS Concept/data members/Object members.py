@@ -5,7 +5,7 @@ class pysipders:
 
 s1 = pysipders()
 s2 = pysipders()
-s2 = pysipders()
+s3 = pysipders()
 
 print(pysipders.Branch_Name)
 print(s2.Course_Name)
