@@ -36,10 +36,3 @@
 #     print('spy')
 # else:
 #     print('not spy')
-
-def add(num):
-    if num==0:
-        return 0
-    return num%10 +add(num//10)
-num =24
-if (add(num)== mul(num)):
