@@ -1,12 +1,12 @@
-# num = 6
-# sum = 0
-# for i in range(1, num):
-#     if num % i == 0:
-#         sum += i
-# if sum == num:
-#     print('Perfect Number')
-# else:
-#     print('Not Perfect Number')
+num = 6
+sum = 0
+for i in range(1, num):
+    if num % i == 0:
+        sum += i
+if sum == num:
+    print('Perfect Number')
+else:
+    print('Not Perfect Number')
 
 LL=int(input('Enter number : '))
 UL=int(input('Enter number : '))

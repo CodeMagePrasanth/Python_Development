@@ -1,6 +1,6 @@
 num = 135
-count = (len(str(num)))
 add = 0
+count = (len(str(num)))
 copy = num
 while (num!=0):
     rem = num % 10
