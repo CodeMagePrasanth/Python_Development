@@ -20,3 +20,4 @@ def Quick(L,first,last):
         
 L = [6,9,0,3,7]
 Quick(L,0,len(L)-1)
+
