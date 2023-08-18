@@ -4,3 +4,7 @@ z=122
 for i in range(a,(z+1)):
     if i in l:
         print(chr(i))
+
+'''
+o/p -->    d
+'''

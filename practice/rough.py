@@ -65,10 +65,15 @@
 #         k.append(i)
 # print(k)
 
-l=[1,3,9,12,18,16]
-i=1
-for num in l:
-    while i**2<=num :
-        if i**2==num:
-            print(num)
-        i+=1
+# l=[1,3,9,12,18,16]
+# i=1
+# for num in l:
+#     while i**2<=num :
+#         if i**2==num:
+#             print(num)
+#         i+=1
+
+# x = ['1']
+# x.extend('3499')
+# print(x)
+# # o/p --> ['1', '3', '4', '9', '9']
