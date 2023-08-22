@@ -7,7 +7,7 @@ if sum == num:
     print('Perfect Number')
 else:
     print('Not Perfect Number')
-
+'''
 LL=int(input('Enter number : '))
 UL=int(input('Enter number : '))
 for n in range(LL,UL+1):
@@ -17,7 +17,7 @@ for n in range(LL,UL+1):
             sum+=i
     if n== sum:
         print(n)
-
+'''
 '''
 Enter number : 1
 Enter number : 10
