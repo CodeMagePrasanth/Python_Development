@@ -7,9 +7,9 @@ there are 5 function arguments
 4.1 Variable length keywords arguments
 4.2 Variable length non - keywords arguments
 '''
-'''
-# positional arguments
 
+# positional arguments
+'''
 def positional_arg(name,id,city):
     print(f' A : {name}')
     print(f' B : {id}')
@@ -18,10 +18,10 @@ def positional_arg(name,id,city):
 positional_arg('prasanth',12,'benguluru')
 print('\t')
 positional_arg(12,'prasanth','benguluru')
-'''
+
 '''
 ## keyword arguments:
-
+'''
 def keyword_arg(name,age,gender):
     print(f'Name :- {name}')
     print(f'Age :- {age}')
@@ -57,8 +57,10 @@ def var_keyword_arg(*args):
 var_keyword_arg(4,43)
 '''
 # Variable lenth non-keyword arguments
+'''
 def var_non_keyword_arg(**kwarg):
     print('gender')
     print('hellow world')
     print(f'kwargs : {kwarg}')
 var_non_keyword_arg(name = 'prasanth',college = 'paavai engineering clg')
+'''

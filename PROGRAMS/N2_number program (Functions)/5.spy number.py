@@ -17,11 +17,11 @@ def spy(num):
     mul = 1
     while (num != 0):
         add += num % 10
-        mul *= add
+        mul *= num % 10
         num //= 10
-    return add % mul
+    return add == mul
 
-num = 24
+num = 217
 if spy(num):
     print('Spy number')
 else:

@@ -6,7 +6,7 @@ def palindorme(num):
         num //= 10
     return rev
 
-num=123
+num=121
 if (num == palindorme(num)):
     print('Palindrome')
 else:

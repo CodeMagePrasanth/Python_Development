@@ -3,7 +3,7 @@ def b2d(num):
     x = 1
     while (num != 0):
         rem = num%2
-        dec = dec + (rem * x)
+        dec += (rem * x)
         x = x*2
         num //= 10
     return dec

@@ -7,7 +7,7 @@ def perfect(num):
 
 
 num = 28
-if perfect(num):
+if (num == perfect(num)):
     print('Perfect Number')
 else:
     print('Not Perfect Number')
