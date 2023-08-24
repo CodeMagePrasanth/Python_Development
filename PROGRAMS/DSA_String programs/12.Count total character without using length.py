@@ -1,0 +1,1 @@
+# 12.Count total character without using length

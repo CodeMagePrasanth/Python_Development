@@ -1,4 +1,4 @@
-# WAP to print count number of vowels given string:
+#2.1 WAP to print count number of vowels given string:
 
 s = 'tamilan da'
 count = 0
@@ -7,7 +7,7 @@ for i in s:
         count += 1
 print(count)
 
-# WAP to print Vowels in given string:
+# 2.2 WAP to print Vowels in given string:
 
 '''
 

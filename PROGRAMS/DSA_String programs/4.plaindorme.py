@@ -1,3 +1,17 @@
+# plaindorme
+
+s = 'aba'
+res = ''
+for i in range(len(s)-1,-1,-1):
+    res += s[i]
+print(res)
+if (res == s):
+    print('palndotme')
+else:
+    print('not planimfopr')
+
+
+
 
 # sub palindrome in string
 '''
@@ -34,17 +48,7 @@ M = 2
 
 '''
 
-#  plaindorme
 
-# s = 'aba'
-# res = ''
-# for i in range(len(s)-1,-1,-1):
-#     res += s[i]
-# print(res)
-# if (res == s):
-#     print('palndotme')
-# else:
-#     print('not planimfopr')
 #
 
 # Sub plaindorme

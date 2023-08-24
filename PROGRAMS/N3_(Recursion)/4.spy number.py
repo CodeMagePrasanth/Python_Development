@@ -1,4 +1,4 @@
-def add(num):
+  def add(num):
     if num ==0:
         return 0
     return num%10 + add(num//10)
