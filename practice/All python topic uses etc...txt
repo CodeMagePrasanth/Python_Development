@@ -1062,7 +1062,8 @@ Certainly, let's explore Object-Oriented Programming (OOP) concepts in Python, i
 **Object-Oriented Programming (OOP)**:
 
 1. **Definition**:
-   - **Definition**: Object-Oriented Programming (OOP) is a programming paradigm that uses objects, which are instances of classes, to structure and organize code.
+   - **Definition**: Object-Oriented Programming (OOP) is a programming paradigm that
+    uses objects, which are instances of classes, to structure and organize code.
 
 2. **Uses**:
    - Modeling real-world entities and their behavior.
@@ -1147,7 +1148,7 @@ Certainly, let's explore Object-Oriented Programming (OOP) concepts in Python, i
            super().__init__(name, age)
            self.student_id = student_id
 
-       def study(self, subject):
+          def study(self, subject):
            return f"{self.name} is studying {subject}."
    ```
 
