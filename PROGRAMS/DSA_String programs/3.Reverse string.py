@@ -1,4 +1,4 @@
-#3.1 'Reverse sting'
+     #3.1 'Reverse sting'
 # 1 way of positive Indexing
 s = 'ABC'
 res = ''
@@ -37,7 +37,7 @@ print(res)
 
 # Out put ---test we  want we  mock we  want we
 
-# 4 reverse word
+# 4 reverse word using split
 
 s = 'we want mock test'
 l = s.split()
@@ -48,6 +48,8 @@ print(res)
 print(res.strip())
 
 # Output --> ew tnaw kcom tset
+
+#4 reverse word using  without join
 
 s = 'we want mock test'
 l = s.split()

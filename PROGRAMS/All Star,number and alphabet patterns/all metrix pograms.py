@@ -20,5 +20,5 @@ f=0
 s=0
 for i in range(n):
     for j in range(n):
-        print([j][i],end=' ')
+        print([j][i],end='')
     print()
