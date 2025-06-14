@@ -107,6 +107,7 @@ for word in l:
             ss += ch
     d[int(num)] = ss
 print(d)
+
 N=''
 m = list(d.keys())
 m.sort()

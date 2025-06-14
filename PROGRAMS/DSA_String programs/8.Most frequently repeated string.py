@@ -1,5 +1,5 @@
 # most frequently character in sting
-s = 'python cython'
+s = 'python cythooo o o n'
 h = 0
 for i in s:
     if s.count(i) > h:

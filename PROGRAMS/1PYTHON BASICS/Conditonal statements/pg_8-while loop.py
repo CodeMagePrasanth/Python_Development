@@ -42,10 +42,10 @@
 
 # print five time 'Hi'
 
-# i = 1
-# while  (i != 6):
-#     print('Hi')
-#     i += 1
+i = 1
+while  (i != 6):
+    print('Hi')
+    i += 1
 
-for i in 'hello':
-    print('hello')
+# for i in 'hello':
+#     print('hello')

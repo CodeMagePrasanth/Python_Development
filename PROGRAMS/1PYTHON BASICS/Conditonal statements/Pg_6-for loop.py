@@ -22,7 +22,7 @@ for valu in T:
 
 #set
 Set = {12,88,77,'code',10,20,20,True ,False,'The Hacker'}
-print(value)
+# print(value)
 for value in Set:
     pass
 

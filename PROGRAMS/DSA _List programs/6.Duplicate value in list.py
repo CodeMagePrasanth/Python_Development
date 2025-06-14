@@ -6,3 +6,4 @@ for i in L:
     if (L.count(i)>1) and (i not in p):
         print(i)
         p.append(i)
+print(p)

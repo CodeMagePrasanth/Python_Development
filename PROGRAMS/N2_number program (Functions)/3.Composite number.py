@@ -6,7 +6,7 @@ def composite(num):
     return count > 2
 
 
-num = 16
+num = 5
 if composite(num):
     print('Composite number')
 else:

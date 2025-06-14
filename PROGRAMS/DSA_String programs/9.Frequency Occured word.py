@@ -1,5 +1,5 @@
 # most frequently word in given string
-s = 'Engineering the the '
+s = 'Engineering the the   '
 p = s.split()
 k = 0
 for i in p:
