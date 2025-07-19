@@ -26,7 +26,7 @@
 # # 3
 #
 # n = 5
-# for i in range(5,0,-1):
+# for i in range(1,n+1):
 #     for j in range(1,i+1):
 #         print(j,end  = ' ')
 #     print()
@@ -309,4 +309,23 @@ for i in range(n, 0, -1):
  2 3 4 5 
 1 2 3 4 5 
 
+'''
+
+n = 5
+a = 4
+for i in range(1,n+1):
+    print('_ '*a,end='')
+    for j in  range(i,0,-1):
+        print(j,end  = ' ')
+    for k in  range(2,i+1):
+        print(k,end  = ' ')
+    print()
+    a -= 1
+
+'''
+_ _ _ _ 1 
+_ _ _ 2 1 2 
+_ _ 3 2 1 2 3 
+_ 4 3 2 1 2 3 4 
+5 4 3 2 1 2 3 4 5
 '''

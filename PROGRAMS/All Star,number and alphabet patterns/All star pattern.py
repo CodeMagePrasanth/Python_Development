@@ -26,7 +26,7 @@ for i in range(5,0,-1):
 
 n = 5
 for i in range(1,n+1):
-        print('{}{}'.format('  '*(n-i),'* '*i))
+  print('{}{}'.format('  '*(n-i),'* '*i))
 '''
     *
   * *
@@ -155,7 +155,7 @@ n = 5
 for i in range(1,n+1):
     print('{}{}{}'.format('  '*(n-i),'* '*i,'* '*(i-1)))
 for i in range(4,0,-1):
-    print('{}{}{}'.format('  ' * (n - i), '* ' * (i), '* ' * (i -1)))
+    print('{}{}{}'.format('  '*(n-i),'* '*(i),'* '*(i-1)))
 
         * 
       * * * 
