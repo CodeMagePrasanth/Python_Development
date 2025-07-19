@@ -10,7 +10,6 @@ def even(num):
         return True
     return False
 
-
 print(even(2))
 print(even(5))
 print(even(14))
